@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.1.6.RELEASE</version>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.1.6.RELEASE</version>
 	</parent>
 	<artifactId>spring-boot-sample-kafka</artifactId>
 	<name>Spring Boot Kafka Sample</name>
